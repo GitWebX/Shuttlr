@@ -9,10 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".Map"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".Map">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,8 +17,5 @@
             </intent-filter>
         </activity>
     </application>
-    <meta-date android:name="com.google.gms.version"
-        android:value ="@integer/google-play-services-version"/>
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
 </manifest>
