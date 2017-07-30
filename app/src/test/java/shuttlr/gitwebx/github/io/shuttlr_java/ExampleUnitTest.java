@@ -1,4 +1,4 @@
-package shuttlr.gitwebx.github.io.shuttlr;
+package shuttlr.gitwebx.github.io.shuttlr_java;
 
 import org.junit.Test;
 

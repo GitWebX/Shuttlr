@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Shuttlr</string>
+    <string name="app_name">Shuttlr_Java</string>
+    <string name="action_settings">Settings</string>
 </resources>
